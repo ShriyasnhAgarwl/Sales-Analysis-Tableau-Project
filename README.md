@@ -3,4 +3,4 @@ It is a end to end project performing analysis on Tableau. Working with MySql, T
 You can Work on it. 
 Please feel free to suggest Changes and you are welcome for your Queries.
 
-![alt text](https://github.com/ShriyasnhAgarwl/Sales-Analysis-Tableau-Project/blob/main/cfv.png)
+![alt text](https://github.com/ShriyasnhAgarwl/Sales-Analysis-Tableau-Project/blob/main/dashboard.png)
