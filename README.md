@@ -5,4 +5,4 @@ Please feel free to suggest Changes and you are welcome for your Queries.
 
 ![alt text](https://github.com/ShriyasnhAgarwl/Sales-Analysis-Tableau-Project/blob/main/dashboard.png)
 
-Thank You and Keep sharing your feedback
+Thank You and Keep sharing your feedback, Every feedback is appreciated.
